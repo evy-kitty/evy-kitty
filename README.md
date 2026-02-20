@@ -3,10 +3,10 @@
 
 ###
 
-<p> align="left">✴ Me Chamo Evellyn </p>
-<p> align="left">✴ Curso Desenvolvimentode Sistemas</p>
-<p> align="left">✴ Gosto bastante de frond ent</p>
-<P> align="left">✴ Em meus Tempos livres gosto muito de ler, e ouvir cascos criminais sem soluções</P>
+<p> ✴ Me Chamo Evellyn </p>
+<p> ✴ Curso Desenvolvimentode Sistemas</p>
+<p> ✴ Gosto bastante de frond ent</p>
+<P> ✴ Em meus Tempos livres gosto muito de ler, e ouvir cascos criminais sem soluções</P>
 
 ###
 
