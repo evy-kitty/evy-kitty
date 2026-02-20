@@ -1,5 +1,5 @@
 
-<h1 align="left">Sejam bem ao meu Github</h1>
+<h1 align="left">Seja bem </h1>
 
 ###
 
